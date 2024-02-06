@@ -1,0 +1,31 @@
+repo_name: JoelSalas22/code-soccer-files
+report_id: 19a5bf70080a8be5400ee170b23d5ebb
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T22:30:05+00:00'
+requested_by: nathanbraun
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/JoelSalas22/code-soccer-files
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JoelSalas22/code-soccer-files
+  detection_source: Repo Metadata
